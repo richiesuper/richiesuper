@@ -12,7 +12,7 @@ learn about other interesting things, like politics and economy.
 
 - What am I currently learning?
 
-I'm currently learning C and C++, although I am more experienced with C.
+I'm currently learning C++, although I also have experience with C.
 I also know Python (albeit not so expert), because it was my first programming language ever.
 
 - What am I looking to collab on?
