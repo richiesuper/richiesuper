@@ -23,4 +23,4 @@ I don't have any plans for collaboration for the time being.
 
 You can reach me at richie9963@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![richiesuper's GitHub stats](https://github-readme-stats.vercel.app/api?username=richiesuper)](https://github.com/anuraghazra/github-readme-stats)
