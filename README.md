@@ -23,6 +23,6 @@ I don't have any plans for collaboration for the time being.
 
 You can reach me at richie9963@gmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=richiesuper&show_icons=true&theme=tokyonight"/>
+[![richiesuper's GitHub stats](https://github-readme-stats.vercel.app/api?username=richiesuper&show_icons=true&theme=tokyonight)]
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richiesuper"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richiesuper)]
